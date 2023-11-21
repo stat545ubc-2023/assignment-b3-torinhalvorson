@@ -1,0 +1,12 @@
+name: assignment-b3-torinhalvorson
+title: assignment-b3-torinhalvorson
+username: torinhalvorson
+account: torinhalvorson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10588703
+bundleId: 7951752
+url: https://torinhalvorson.shinyapps.io/assignment-b3-torinhalvorson/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
